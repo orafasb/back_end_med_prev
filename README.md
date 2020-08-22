@@ -53,5 +53,6 @@ Desenvolvimento de uma API (CRUD de pessoa) no padrão REST; Rotas (GET, POST, P
 - * Estado
 - CEP
 
-
+ # Detalhes do projeto 🎯
+ ![Alt text](/relative/path/to/img.jpg?raw=true "INSOMNIA.PNG")
 
