@@ -1,5 +1,12 @@
-# back_end_med_prev 👾
-Desenvolvimento de uma API (CRUD de pessoa) no padrão REST; Rotas (GET, POST, PUT,DELETE) totalmente funcional. ----NODEJS, MONGODB com model MONGOOSE.
+# back_end_med_prev 👾 [![Latest Version on Github](https://img.shields.io/github/release/wemersonrv/input-mask.svg?style=flat)](https://packagist.org/packages/wemersonrv/input-mask)
+Desenvolvimento de uma API (CRUD de pessoa) no padrão REST; Rotas (GET, POST, PUT,DELETE) totalmente funcional. 
+- NODEJS 
+- MONGODB
+- MONGOOSE
+- ROBO 3T
+- EXPRESS
+- ESLINT
+- INSOMNIA 
 
 
 # Objetivos 💻
@@ -49,3 +56,5 @@ Desenvolvimento de uma API (CRUD de pessoa) no padrão REST; Rotas (GET, POST, P
 Referências
 ● Joi: https://hapi.dev/module/joi/
 ● Mongoose: https://mongoosejs.com/
+
+
