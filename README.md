@@ -54,5 +54,5 @@ Desenvolvimento de uma API (CRUD de pessoa) no padrão REST; Rotas (GET, POST, P
 - CEP
 
  # Detalhes do projeto 🎯
- ![Alt text](/relative/path/to/img.jpg?raw=true "INSOMNIA.PNG")
+ ![Alt text](https://github.com/orafasb/back_end_med_prev/blob/master/INSOMNIA.PNG "INSOMNIA.PNG")
 
