@@ -53,8 +53,5 @@ Desenvolvimento de uma API (CRUD de pessoa) no padrão REST; Rotas (GET, POST, P
 - * Estado
 - CEP
 
-Referências
-● Joi: https://hapi.dev/module/joi/
-● Mongoose: https://mongoosejs.com/
 
 
