@@ -2,7 +2,7 @@
 Desenvolvimento de uma API (CRUD de pessoa) no padrão REST; Rotas (GET, POST, PUT,DELETE) totalmente funcional. 
 - NODEJS 
 - MONGODB
-- MONGOOSE]
+- MONGOOSE
 - ROBO 3T
 - EXPRESS
 - ESLINT
