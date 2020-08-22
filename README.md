@@ -54,13 +54,13 @@ Desenvolvimento de uma API (CRUD de pessoa) no padrão REST; Rotas (GET, POST, P
 - CEP
 
  # Detalhes do projeto 🎯
-  - Mongo Db
-  ![Alt text](https://github.com/orafasb/back_end_med_prev/blob/master/BANCO%20DE%20DATOS.PNG "INSOMNIA.PNG")
+  - Mongo Db 🟣
+ ![Alt text](https://github.com/orafasb/back_end_med_prev/blob/master/BANCO%20DE%20DATOS.PNG "INSOMNIA.PNG")
  
- - Insomnia 
+ - Insomnia 🟣
  ![Alt text](https://github.com/orafasb/back_end_med_prev/blob/master/INSOMNIA.PNG "INSOMNIA.PNG")
  
- - VsCode
+ - VsCode 🟣
  ![Alt text](https://github.com/orafasb/back_end_med_prev/blob/master/vscode%20-.PNG "INSOMNIA.PNG")
  
 
