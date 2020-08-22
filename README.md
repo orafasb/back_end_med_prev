@@ -16,20 +16,20 @@ Desenvolvimento de uma API (CRUD de pessoa) no padrão REST; Rotas (GET, POST, P
 - Ter uma rota para listar os cadastros com paginação (GET);✔️
 - Ter uma rota para cadastro/edição dos cadastros (POST/PUT);✔️
 - Ter uma rota para excluir um cadastro pelo ID (DELETE);✔️
-- No cadastro de endereço, poder cadastrar mais de um; 🟠 falta implemnetar 
+- No cadastro de endereço, poder cadastrar mais de um; 🟠 falta implementar 
 - Aplicar validação dos campos obrigatórios; ✔️
-- Aplicar testes automatizados com Jest; 🟠 falta implemnetar 
+- Aplicar testes automatizados com Jest; 🟠 falta implementar 
 - Utilizar ESLint com a configuração AIRBNB; ✔️ 
 - Entregar código fonte em um repositório público (GitHub, Bitbucket, etc…)✔️
 
 # Tecnologias a serem utilizadas 🛠
 - NodeJS ✔️
 - MongoDB ✔️
-- Koa ⚠️ / acabei optando pelo express por trabalhar a mais tempo com ele.
+- Koa ⚠️ / acabei usando express por trabalhar a mais tempo com ele.
 - Mongoose (model) ✔️
 - Git ✔️
-- Joi (validações) 🟠 falta implemnetar 
-- Jest 🟠 falta implemnetar 
+- Joi (validações) 🟠 falta implementar 
+- Jest 🟠 falta implementar 
 
 
 # Campos (* são obrigatórios) ⌨️
